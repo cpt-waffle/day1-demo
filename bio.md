@@ -7,5 +7,6 @@ about the power of `git`.
 
 ### :)
 
-$_$
-
+Hello World!
+Test
+test
