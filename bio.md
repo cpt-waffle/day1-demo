@@ -1,5 +1,11 @@
 # Greetings
 
-My name is Vas,
+My name is Vas, and i work here, 
+this is our first lecture, and we are learning
+about the power of `git`.
 
-## This is our file!
+
+### :)
+
+$_$
+
